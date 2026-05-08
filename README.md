@@ -81,7 +81,7 @@ cd wisconsin-ai-detector
 ### 2. Download Model Checkpoints
 
 The `.pt` checkpoint files are not stored in this repo due to file size.
-Download them from Google Drive: **[LINK HERE]**
+Download them from Google Drive: **(https://drive.google.com/drive/folders/14FWseQdsOZCin0HfelrqbZZnllIbw9wL?usp=sharing)**
 
 Place them in `backend/checkpoints/`:
 ```
