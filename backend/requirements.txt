@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+torch
+torchvision
+timm
+pillow
+pillow-heif
+PyWavelets
+numpy
+anthropic
+pytorch-grad-cam
+matplotlib
+python-multipart

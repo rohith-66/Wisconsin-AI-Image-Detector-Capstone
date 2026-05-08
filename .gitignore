@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+*.egg-info/
+
+# Model checkpoints — too large for GitHub
+backend/checkpoints/*.pt
+backend/checkpoints/*.pth
+
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# Misc
+*.log
+.idea/
+.vscode/
