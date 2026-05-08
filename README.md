@@ -150,13 +150,13 @@ Frontend runs at: `http://localhost:5173`
 ## Screenshots
 
 ### Landing Page
-![Landing Page](assets/landingpage.png)
+![Landing Page](frontend/src/assets/landingpage.jpeg)
 
 ### Real Image Detection — with Grad-CAM
-![Real Detection](assets/prediction.png)
+![Real Detection](frontend/src/assets/prediction.png)
 
 ### AI-Generated Image Detected
-![AI Detection](assets/ai.png)
+![AI Detection](frontend/src/assets/ai.png)
 
 
 ---
